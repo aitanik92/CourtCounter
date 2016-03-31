@@ -153,7 +153,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:onClick="reset"
-        android:text="RESET"
+        android:text="RESETta"
         android:textAllCaps="true"
         android:layout_marginBottom="32dp"
         />
